@@ -5,4 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 homeassistant/amd64-addon-mosquitto:6.4.1
-
+homeassistant/amd64-addon-mosquitto:latest
